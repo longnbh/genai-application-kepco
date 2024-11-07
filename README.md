@@ -30,4 +30,4 @@ To run the application, follow these steps:
 The enhanced image will be saved in the directory with the name `enhanced_image.jpg`
 
 ### Note
-- Billing setup is required on Replicate to run the model and see desired results(Due to time and budget constraints, I have not tested it yet).
+- Billing setup is required on Replicate to run the model and see desired results ( Due to time constraints and no budget to charge API, I could not have tested it yet ).
